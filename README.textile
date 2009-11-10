@@ -1,0 +1,7 @@
+h1. EVE Metrics AMQP Feed Tools
+
+This repository contains various tools and example clients to assist users who want to make use of the EVE Metrics Realtime Upload feed using the AMQP protocol.
+
+User contributions of additional clients, tools and documentation are encouraged and welcomed.
+
+
