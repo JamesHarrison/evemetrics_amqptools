@@ -1,1 +1,3 @@
 *.class
+php/php-amqp
+php/php-amqp/*
